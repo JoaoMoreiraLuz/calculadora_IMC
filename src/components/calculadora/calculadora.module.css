@@ -1,0 +1,54 @@
+.fundo {
+    background-color: #962c34;
+}
+
+.calculadora {
+    padding-top: 40px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.calculadora__peso {
+    padding: 16px;
+}
+
+.calculadora__altura {
+    padding: 16px;
+}
+
+.label {
+    display: flex;
+    font-size: 24px;
+}
+
+.input {
+    border: none;
+    background-color: transparent;
+    border-bottom: solid 3px #fff;
+    color: #fff;
+}
+
+.resultado {
+    color: #fff;
+    text-align: center;
+    padding-bottom: 12px;
+}
+
+.resultadoText {
+    font-size: 26px;
+}
+
+.buttonDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    padding: 8px;
+    border-radius: 20px;
+    font-weight: bolder;
+    color: #fff;
+    background-color: #0e0d15;
+}

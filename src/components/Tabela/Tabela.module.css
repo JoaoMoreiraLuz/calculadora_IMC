@@ -1,0 +1,12 @@
+table {
+    border-collapse: collapse;
+}
+
+.container {
+    padding-top: 12px;
+    display: grid;
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    justify-items: center;
+}
